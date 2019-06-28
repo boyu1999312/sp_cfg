@@ -22,6 +22,7 @@ zuul:
 #    item-service: /item-service/**
 #    user-service: /user-service/**
 #    order-service: /order-service/**
+#嘻嘻
 hystrix:
   command:
     default:
